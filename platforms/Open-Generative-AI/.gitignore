@@ -36,3 +36,7 @@ out/
 .env
 .env.*
 !.env.example
+
+# Coverage reports
+coverage/
+*.lcov
